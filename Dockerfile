@@ -4,9 +4,10 @@ WORKDIR /app
 
 COPY go.mod ./
 COPY *.go ./
+RUN go mod tidy
 RUN go mod download
 
 
 RUN go build -o bsky-discord
 
-CMD [ "/bsky-discord" ]
+CMD [ "./bsky-discord" ]
