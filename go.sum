@@ -4,8 +4,8 @@ github.com/bluesky-social/indigo v0.0.0-20240313175749-733547c2ba2c h1:9lZZi0sWh
 github.com/bluesky-social/indigo v0.0.0-20240313175749-733547c2ba2c/go.mod h1:YSt5cvQb1XjaYmn77hJHNd0fO3bEkJHvqATGkxGpV9Q=
 github.com/bwmarrin/discordgo v0.28.1 h1:gXsuo2GBO7NbR6uqmrrBDplPUx2T3nzu775q/Rd1aG4=
 github.com/bwmarrin/discordgo v0.28.1/go.mod h1:NJZpH+1AfhIcyQsPeuBKsUtYrRnjkyu0kIVMCHkZtRY=
-github.com/bytequill/gobot-bsky v0.2.2 h1:HhV0WSxbjKWwssGLAkD7kDsd0waLAac8atSc98Z4M7o=
-github.com/bytequill/gobot-bsky v0.2.2/go.mod h1:PWxgW0yFi4IiLOAVIMWDBDuJ9cU4RQigQAm/C+f22hY=
+github.com/bytequill/gobot-bsky v0.2.2-debug h1:/eOv3aCqAC9WAOd5rq+tEz/AiaAoqOoVdEa4vPDsE3o=
+github.com/bytequill/gobot-bsky v0.2.2-debug/go.mod h1:PWxgW0yFi4IiLOAVIMWDBDuJ9cU4RQigQAm/C+f22hY=
 github.com/carlmjohnson/versioninfo v0.22.5 h1:O00sjOLUAFxYQjlN/bzYTuZiS0y6fWDQjMRvwtKgwwc=
 github.com/carlmjohnson/versioninfo v0.22.5/go.mod h1:QT9mph3wcVfISUKd0i9sZfVrPviHuSF+cUtLjm2WSf8=
 github.com/cpuguy83/go-md2man/v2 v2.0.0-20190314233015-f79a8a8ca69d/go.mod h1:maD7wRr/U5Z6m/iR4s+kqSMx2CaBsrgA7czyZG/E6dU=

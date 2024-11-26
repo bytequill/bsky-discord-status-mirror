@@ -78,6 +78,9 @@ func main() {
 	})
 
 	fmt.Println("Initialised")
+	if gobot.ErrExpiredToken.Error() != "" {
+		fmt.Println("it did actually update")
+	}
 	select {}
 }
 
