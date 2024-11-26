@@ -8,6 +8,8 @@ require (
 	github.com/joho/godotenv v1.5.1
 )
 
+replace github.com/danrusei/gobot-bsky => github.com/bytequill/gobot-bsky v0.2.2
+
 require (
 	github.com/bluesky-social/indigo v0.0.0-20240313175749-733547c2ba2c // indirect
 	github.com/carlmjohnson/versioninfo v0.22.5 // indirect
